@@ -1,1 +1,1 @@
-Curso de Pandas
+Curso de Pandas (Alura)
